@@ -7,12 +7,10 @@ Python 3 and pip
 
 ## To run
 
-- Clone the repository
+- Clone the repository and cd into it, then:
 
 ```
-> cd djangoapi
 > pip install -r requirements.txt
-> python manage.py runserver
 > python manage.py createsuperuser
 > python manage.py runserver
 ```
