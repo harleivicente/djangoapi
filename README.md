@@ -1,6 +1,6 @@
 # django-api
 
-Simple Django API with JWT token
+Simple example of Django API with JWT security
 
 ## Dependencies
 Python 3 and pip
